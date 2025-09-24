@@ -8,7 +8,7 @@
 
 <h1 align="center">Hello 👋 , I'm Anamika Rathod</h1>
 
-<h3 align="center">A passionate Backend Developer.</h3>
+<h2 align="center">A passionate Backend Developer.</h2>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -56,9 +56,6 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
   
 <h4> 📬 Reach me out </h4>
 <p align="left">
