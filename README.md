@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="URL_OF_YOUR_DEVELOPER_GIF_OR_IMAGE" alt="Developer Illustration" width="400" />
+    <img src="https://media.giphy.com/media/q1MeAPDDMb4S1I90K1/giphy.gif" alt="Developer Illustration" width="400" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <img src="URL_OF_YOUR_COLORFUL_LINE_GIF_OR_IMAGE" alt="Separator Line" width="100%" height="5px" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA4NDQ4d2Z2bHBpZGgzYXd2ZnR6M3F2OGtmdDBvOW8yZ2Zld3d4aiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Separator Line" width="100%" height="5px" />
 </div>
 
 
@@ -20,6 +20,7 @@
 * 💡 I'm currently exploring **Java, Python, C++**, and diving deep into **SQL/NoSQL databases**.
 * 🚀 My goal is to master **cloud deployment** (e.g., AWS/Docker) for applications.
 * 🙋‍♀️ Know me more: [**Portfolio**](YOUR_PORTFOLIO_LINK)
+* 📧 Feel free to reach out to me here: [**Email**](mailto:YOUR_EMAIL_ADDRESS)
 
 
 ### ⚡ Technologies & Tools
@@ -34,5 +35,5 @@
 
 
 <div align="center">
-    <img src="URL_OF_YOUR_COLORFUL_LINE_GIF_OR_IMAGE" alt="Separator Line" width="100%" height="5px" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA4NDQ4d2Z2bHBpZGgzYXd2ZnR6M3F2OGtmdDBvOW8yZ2Zld3d4aiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Separator Line" width="100%" height="5px" />
 </div>
