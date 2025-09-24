@@ -4,7 +4,7 @@
 
 <div align="center">
     <h1>Hello 👋 , I'm Anamika Rathod</h1>
-    <p>A passionate Backend Developer.</p>
+    <h2 align="center">A passionate Backend Developer.</h2>
 </div>
 
 <p align="left">
