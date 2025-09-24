@@ -1,10 +1,10 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/q1MeAPDDMb4S1I90K1/giphy.gif" alt="Developer Illustration" width="400" />
+   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </div>
 
 <div align="center">
     <h1>Hello 👋 , I'm Anamika Rathod</h1>
-    <p>A passionate **Backend Developer** focused on building robust and scalable systems.</p>
+    <p>A passionate Backend Developer.</p>
 </div>
 
 <div align="center">
