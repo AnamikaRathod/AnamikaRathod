@@ -27,4 +27,5 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/anamika-rathod-b21b86362/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://leetcode.com/u/Arsibhai/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
+  <a href="https://www.geeksforgeeks.org/user/arsibham7yo/"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20231228172727/gfg-image.jpg"></a>
 </p>
