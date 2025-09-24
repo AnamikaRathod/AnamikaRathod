@@ -8,7 +8,7 @@
 
 <h1 align="center">Hello 👋 , I'm Anamika Rathod</h1>
 
-<h3 align="center">A passionate Backend Developer.</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -44,7 +44,8 @@
   
   <img src="https://img.icons8.com/color/48/000000/api.png" alt="REST API" title="REST API" width="40"/>
 
-  <!-- Frontend Next -->
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" width="40"/>
+
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" width="40"/>
   
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40"/>
