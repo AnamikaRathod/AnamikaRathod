@@ -16,7 +16,7 @@
 * 🎓 I'm a **BCA Student**.
 * 🛠️ Currently focusing on building **RESTful APIs** and understanding database optimization.
 * 🔭 I'm looking to contribute to **Open Source** projects, especially in the server-side domain.
-* 💡 I'm currently exploring **Java, Python, C++**, and diving deep into **SQL/NoSQL databases**.
+* 💡 I'm currently exploring **Java, Python, C++**, and diving deep into **SQL databases**.
 * 🙋‍♀️ Know me more: [**Portfolio**](#)
 
 <p align="left">
