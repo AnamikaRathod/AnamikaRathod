@@ -63,5 +63,4 @@
 <a href = "https://www.linkedin.com/in/anamika-rathod-b21b86362/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://leetcode.com/u/Arsibhai/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a>
   <a href="https://www.geeksforgeeks.org/user/arsibham7yo/"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
-  <a href="https://www.codechef.com/users/laher1922/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CodeChef_Logo.svg/1200px-CodeChef_Logo.svg.png height="50rem" width="50rem"/></a>
 </p>
