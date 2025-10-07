@@ -46,6 +46,7 @@
   <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" title="Express.js" width="40"/> 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="40"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="40"/> 
   
   <!-- Database --> 
